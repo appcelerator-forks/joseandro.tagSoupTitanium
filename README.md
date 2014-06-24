@@ -1,5 +1,5 @@
-tagSoupTitanium
-====================
+Share HTML in Android using Titanium
+-------------
 
 With this native Android Titanium module you will be able to properly share HTML formatted text to Gmail (and other apps). 
 
