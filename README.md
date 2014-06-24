@@ -22,9 +22,9 @@ tagSoup.dispatchHTML('Sharing html' , 'Subject', '<h1> H1 Title </h1> <h2> H2 Ti
 ##Methods:
 
 ####dispatchHTML( String title, String subject, String contents  )
-title    - The sharing dialog title
-subject  - EXTRA_SUBJECT share intent parameter
-contents - EXTRA_TEXT share intent parameter
+* title    - The sharing dialog title
+* subject  - EXTRA_SUBJECT share intent parameter
+* contents - EXTRA_TEXT share intent parameter
 
 This method dispatches an intent with Spannable text to other apps.
 With it is possible to transform HTML into an email ;)
