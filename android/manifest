@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: tagSoup
+author: Conference Compass B.V.
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+# these should not be edited
+name: tagSoup
+moduleid: com.tagSoup.cc
+guid: 5741a1df-085f-44be-a7c8-1c60e6c47596
+platform: android
+minsdk: 3.2.3.GA
