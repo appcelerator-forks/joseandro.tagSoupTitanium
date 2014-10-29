@@ -28,3 +28,7 @@ tagSoup.dispatchHTML('Sharing html' , 'Subject', '<h1> H1 Title </h1> <h2> H2 Ti
 
 This method dispatches an intent with Spannable text to other apps.
 With it is possible to transform HTML into an email ;)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/joseandro/tagsouptitanium/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
